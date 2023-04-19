@@ -1,0 +1,28 @@
+{
+  "name": "graphql-with-react",
+  "version": "1.0.0",
+  "description": "GraphQL server with React and Node.js creating a MERN fullstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbai86/GraphQL-with-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbai86/GraphQL-with-React/issues"
+  },
+  "homepage": "https://github.com/jbai86/GraphQL-with-React#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
